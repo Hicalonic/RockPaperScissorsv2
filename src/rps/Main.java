@@ -10,13 +10,8 @@ public class Main {
 
         Game jogo = new Game(jon,andy);
 
-        jogo.runGame();
-        jogo.runGame();
-        jogo.runGame();
-        jogo.runGame();
-        jogo.runGame();
-        jogo.runGame();
-        jogo.runGame();
+        jogo.runGame(5);
+
 
     }
 }
